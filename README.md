@@ -1,1 +1,3 @@
+học nextjs typescrip
+
 # LearnNextJs
